@@ -1,0 +1,13 @@
+--- a/data/org.gnome.Sudoku.appdata.xml.in	2019-09-12 23:37:57.099598324 +0200
++++ b/data/org.gnome.Sudoku.appdata.xml.in	2019-09-12 23:38:23.240069209 +0200
+@@ -48,8 +48,8 @@
+   </kudos>
+   <releases>
+     <release version="3.34.0" data="2019-09-08" />
+-    <release version="3.33.4" date="2O19-07-14" />
+-    <release version="3.32.0" date="2O19-03-11" />
++    <release version="3.33.4" date="2019-07-14" />
++    <release version="3.32.0" date="2019-03-11" />
+   </releases>
+   <translation type="gettext">gnome-sudoku</translation>
+   <developer_name>The GNOME Project</developer_name>

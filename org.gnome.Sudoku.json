@@ -26,11 +26,7 @@
             "sources": [{
                 "type": "git",
                 "url": "https://gitlab.gnome.org/GNOME/gnome-sudoku.git",
-                "commit": "370419f0046da9f2b2469b9548f43bcc0e68a536"
-            },
-            {
-                "type": "patch",
-                "path": "appdata_fix.patch"
+                "commit": "ef74dfcb55a351c12378cb05bcd124e30f69a895"
             }]
         }
     ]

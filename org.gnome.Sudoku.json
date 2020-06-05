@@ -24,10 +24,9 @@
             "name": "gnome-sudoku",
             "buildsystem": "meson",
             "sources": [{
-                "type": "git",
-                "url": "https://gitlab.gnome.org/GNOME/gnome-sudoku.git",
-                "tag": "3.36.0",
-                "commit": "fc092ed0ec2d53e80db207bac1ff53a3a4fba3d5"
+                "type": "archive",
+                "url": "https://download.gnome.org/sources/gnome-sudoku/3.36/gnome-sudoku-3.36.0.tar.xz",
+                "commit": "95f74ebd131596ce9ef3ab26912b31d16fdfabaaccb74063cfcffb32a5c8419d"
             }]
         }
     ]

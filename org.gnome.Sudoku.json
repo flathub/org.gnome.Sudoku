@@ -26,7 +26,7 @@
             "sources": [{
                 "type": "archive",
                 "url": "https://download.gnome.org/sources/gnome-sudoku/3.36/gnome-sudoku-3.36.0.tar.xz",
-                "commit": "95f74ebd131596ce9ef3ab26912b31d16fdfabaaccb74063cfcffb32a5c8419d"
+                "sha256": "95f74ebd131596ce9ef3ab26912b31d16fdfabaaccb74063cfcffb32a5c8419d"
             }]
         }
     ]

@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Sudoku",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.36",
+    "runtime-version": "3.38",
     "sdk": "org.gnome.Sdk",
     "command": "gnome-sudoku",
     "finish-args": [
@@ -25,8 +25,8 @@
             "buildsystem": "meson",
             "sources": [{
                 "type": "archive",
-                "url": "https://download.gnome.org/sources/gnome-sudoku/3.36/gnome-sudoku-3.36.0.tar.xz",
-                "sha256": "95f74ebd131596ce9ef3ab26912b31d16fdfabaaccb74063cfcffb32a5c8419d"
+                "url": "https://download.gnome.org/sources/gnome-sudoku/3.38/gnome-sudoku-3.38.0.tar.xz",
+                "sha256": "38731d0cc6d56a21dbdc89409cc5bb3d08e1c02cd9009f4d57f5b34887e9fd32"
             }]
         }
     ]

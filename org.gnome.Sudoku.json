@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Sudoku",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "40",
+    "runtime-version": "42",
     "sdk": "org.gnome.Sdk",
     "command": "gnome-sudoku",
     "finish-args": [
@@ -25,8 +25,8 @@
             "buildsystem": "meson",
             "sources": [{
                 "type": "archive",
-                "url": "https://download.gnome.org/sources/gnome-sudoku/40/gnome-sudoku-40.2.tar.xz",
-                "sha256": "36120531e3c7139581ea3800fbfe3c2b31694c440145ecc897ac34e562d754a3"
+                "url": "https://download.gnome.org/sources/gnome-sudoku/42/gnome-sudoku-42.0.tar.xz",
+                "sha256": "1d2eb4ddb8026b443645cf3585b8df1244e3828ee1c07518052b2599e1c5c28f"
             }]
         }
     ]

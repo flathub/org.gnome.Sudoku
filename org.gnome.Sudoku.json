@@ -27,8 +27,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-sudoku/45/gnome-sudoku-45.4.tar.xz",
-                    "sha256": "79d35957aa168f4a563e6016fb9750b358652601241158380a4c4b79b740019d",
+                    "url": "https://download.gnome.org/sources/gnome-sudoku/45/gnome-sudoku-45.5.tar.xz",
+                    "sha256": "8e8e2bca6cda49f05d0061c3f9866020b363ef84c3a30f5b7e8ed4e41a57fd0f",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-sudoku"

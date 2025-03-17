@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Sudoku",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "47",
+    "runtime-version": "48",
     "sdk": "org.gnome.Sdk",
     "command": "gnome-sudoku",
     "finish-args": [
@@ -11,6 +11,19 @@
         "--metadata=X-DConf=migrate-path=/org/gnome/Sudoku/"
     ],
     "modules": [
+        {
+          "name": "blueprint-compiler",
+          "buildsystem": "meson",
+          "sources": [
+            {
+              "type": "git",
+              "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
+              "tag": "v0.16.0",
+              "commit": "04ef0944db56ab01307a29aaa7303df6067cb3c0"
+            }
+          ],
+          "cleanup": ["*"]
+        },
         {
             "name": "qqwing",
             "sources": [
@@ -27,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-sudoku/47/gnome-sudoku-47.1.1.tar.xz",
-                    "sha256": "4725b42836466b2b2acc5e5166b53d8eb11ccdde2587db687caf8c8d473eb889",
+                    "url": "https://download.gnome.org/sources/gnome-sudoku/48/gnome-sudoku-48.0.tar.xz",
+                    "sha256": "98c3920030dd0c2401f890c871d6345fa3c103f7069d8e583daba43558bb40b6",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-sudoku"

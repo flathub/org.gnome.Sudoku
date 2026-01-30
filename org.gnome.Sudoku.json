@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-sudoku/49/gnome-sudoku-49.3.tar.xz",
-                    "sha256": "c9b546c8dfe97161df5d50f5538182a74153626cbc36805b0781528ef33bc595",
+                    "url": "https://download.gnome.org/sources/gnome-sudoku/49/gnome-sudoku-49.4.tar.xz",
+                    "sha256": "9c8cd067a4523878aaff3047a2fbd86f88b31984243f0d42a2b1e4f3e6451f50",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-sudoku"

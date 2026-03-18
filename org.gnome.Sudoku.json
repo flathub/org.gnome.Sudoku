@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Sudoku",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "command": "gnome-sudoku",
     "finish-args": [
@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-sudoku/49/gnome-sudoku-49.4.tar.xz",
-                    "sha256": "9c8cd067a4523878aaff3047a2fbd86f88b31984243f0d42a2b1e4f3e6451f50",
+                    "url": "https://download.gnome.org/sources/gnome-sudoku/50/gnome-sudoku-50.0.tar.xz",
+                    "sha256": "525fedff287c83e3fa73c5a474e1a49f0d0b8b588e3deb08ca341770c781425d",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-sudoku"

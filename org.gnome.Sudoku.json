@@ -11,6 +11,13 @@
         "--device=dri",
         "--metadata=X-DConf=migrate-path=/org/gnome/Sudoku/"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/pkgconfig",
+        "/share/man",
+        "*.la",
+        "*.a"
+    ],
     "modules": [
         {
             "name": "qqwing",

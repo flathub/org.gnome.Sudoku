@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-sudoku/50/gnome-sudoku-50.3.tar.xz",
-                    "sha256": "fd8ff1fa32b3341642ac21b1a9ae63fa8d312993e028ce96623a875c04913354",
+                    "url": "https://download.gnome.org/sources/gnome-sudoku/50/gnome-sudoku-50.4.tar.xz",
+                    "sha256": "666ea645a42ef02f18e78618b098b305080d3b1473710da80d22957650acf33b",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-sudoku"
